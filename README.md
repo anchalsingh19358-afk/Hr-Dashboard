@@ -86,7 +86,7 @@ Helps align HR policies with real workforce trends and behaviors.
 
 ### 6. Screenshots / Demos
 Show what the dashboard looks like 
-Example: ![Dashboard Preview](
+Example: ![Dashboard Preview](https://github.com/anchalsingh19358-afk/Hr-Dashboard/blob/main/HR%20Dashboard.png)
 
 
 
