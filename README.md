@@ -1,6 +1,6 @@
 # Hr-Dashboard
 ### 1. Project Title / Headline
-A cocise, description name for the dashboard. 
+A concise, descriptive name for the dashboard. 
 Example:
 💼 HR Analytics Dashboard: Employee Insights & Attrition Analysis
 An interactive and data-driven Power BI dashboard designed to analyze workforce trends, employee attrition, job satisfaction, and demographic patterns—helping organizations make smarter HR decisions.
